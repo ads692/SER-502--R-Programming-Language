@@ -1,4 +1,4 @@
-This is an analysis of the programmming language R by Team 12.
+This is an analysis of the programming language R by Team 12.
 
 Contributors:
 
